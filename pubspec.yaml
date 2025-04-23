@@ -6,12 +6,11 @@ homepage: https://github.com/sarbagyastha/youtube_player_flutter/tree/main/packa
 
 environment:
   sdk: ">=3.4.0 <4.0.0"
-  flutter: '>=3.24.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_inappwebview: ^6.1.1+1
+  flutter_inappwebview: ^6.0.0
 
 dev_dependencies:
   flutter_test:
